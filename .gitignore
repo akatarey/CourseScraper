@@ -1,2 +1,4 @@
 *.log
 geckodriver.log
+classes.csv
+out.csv
