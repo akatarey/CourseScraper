@@ -4,7 +4,7 @@ This program will pull up a window to UW-Madison's Course Search and Enroll, whe
 
 **Run the python script "scraper.py". A internet connection is required.**
 
-#### optional arguments:
+#### Optional arguments:
 +  -h, --help
     +     Displays help on how to use program
 +  -w [WRITE], --write [WRITE]
