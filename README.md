@@ -6,15 +6,15 @@ This program will pull up a window to UW-Madison's Course Search and Enroll, whe
 
 #### Optional arguments:
 +  -h, --help
-    +     Displays help on how to use program
+    + Displays help on how to use program
 +  -w [WRITE], --write [WRITE]
-    +    Write course codes to a file without sorting. Filename specification is optional.
+    + Write course codes to a file without sorting. Filename specification is optional.
 +  -r [READ], --read [READ]
-    +    Read course codes from file and sort by GPA. Filename specification is optional.
+    + Read course codes from file and sort by GPA. Filename specification is optional.
 +  -o [OUTPUT], --output [OUTPUT]
-    +    Output the final results to a file. Filename specification is optional.
+    + Output the final results to a file. Filename specification is optional.
 +  -p [PRINT] [PRINT], --print [PRINT] [PRINT]
-    +    Print output again. Filename specification is optional. Can also specify max course code.
+    + Print output again. Filename specification is optional. Can also specify max course code.
 
 #### Examples:
 
