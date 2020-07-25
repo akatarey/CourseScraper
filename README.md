@@ -2,10 +2,9 @@
 
 This program will pull up a window to UW-Madison's Course Search and Enroll, where you will log in and select the options you want (in the left bar). Then, it will sort all the courses selected by those options by adjusted average GPA and display it bottom to top.
 
-*Will sort by adjusted GPA (Bayesian adjustment to prevent n-mu conflation), but will display actual GPA in output. If the GPAs seem out of order, it is because they have been adjusted in the sort.*
-
-
 **Run the python script "scraper.py". A internet connection is required.**
+
+*Will sort by adjusted GPA (Bayesian adjustment to prevent n-mu conflation), but will display actual GPA in output. If the GPAs seem out of order, it is because they have been adjusted in the sort.*
 
 #### Optional arguments:
 +  -h, --help
